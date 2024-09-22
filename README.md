@@ -1,27 +1,28 @@
-# ¡Experto en DevOps y Desarrollador! :rocket: :computer: :construction_worker:
+# Ingeniero DevOps apasionado por la automatización y la infraestructura :rocket: :computer: :construction_worker:
 
-👋 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de DevOps y desarrollador con experiencia en Docker y Angular. Me encanta crear soluciones eficientes, escalables y robustas para problemas complejos. Aquí encontrarás una colección de mis proyectos.
+👋 ¡Bienvenido a mi perfil de GitHub! Soy Fernando Nicolás, ingeniero DevOps con experiencia en la gestión y optimización de infraestructuras mediante contenedores y orquestadores como Docker y Kubernetes. Aquí encontrarás una colección de mis proyectos enfocados en la implementación de soluciones eficientes, escalables y alineadas con la filosofía DevOps.
 
 ## Habilidades :gear: :rocket: :wrench:
 
-- **DevOps**: Me especializo en construir y automatizar pipelines de CI/CD, gestión de configuraciones y tecnologías en la nube.
-- **Docker**: ¡Soy un entusiasta de Docker! Utilizo contenedores para ofrecer entornos consistentes y aislados, facilitando las implementaciones.
-- **Angular**: Tengo una amplia experiencia con Angular, creando aplicaciones web de alto rendimiento. Me encanta explorar las últimas características y mejores prácticas.
+- **DevOps**: Especialista en la creación y automatización de pipelines de CI/CD utilizando herramientas como GitHub Actions y Jenkins. Además, gestiono infraestructuras con tecnologías como Terraform y Ansible.
+- **Contenedores y Orquestación**: Experiencia sólida con Docker y Kubernetes para la creación y gestión de entornos consistentes, facilitando la implementación y escalabilidad de aplicaciones.
+- **Monitorización**: Implementación de sistemas de monitorización con Prometheus, Grafana y Alertmanager para asegurar la estabilidad y rendimiento de las plataformas.
+- **Infraestructura como Código (IaC)**: Utilización de herramientas como Terraform y Ansible para automatizar la gestión de infraestructura en entornos de producción.
 
 ## Proyectos :computer: :hammer_and_wrench:
 
-¡Siéntete libre de explorar mis repositorios y hacer preguntas o sugerencias!
+Explora mis repositorios para ver cómo implemento la filosofía DevOps en proyectos reales, optimizando el ciclo de vida de desarrollo y la gestión de infraestructura.
 
 ## Contribuciones y Colaboraciones :handshake:
 
-Si estás interesado en trabajar juntos o tienes oportunidades emocionantes, ¡no dudes en contactarme!
+Si te interesa colaborar en proyectos o discutir nuevas oportunidades relacionadas con DevOps, ¡no dudes en contactarme!
 
 ## Contacto :email: :coffee:
 
-Siempre estoy emocionado de conectarme con profesionales afines y discutir temas tecnológicos fascinantes. No dudes en contactarme a través de los siguientes canales:
+Estoy siempre abierto a conectar con profesionales afines y discutir soluciones tecnológicas. Puedes contactarme a través de los siguientes canales:
 
-- :briefcase: LinkedIn: [Fernando Nicolas Carrillo López](https://www.linkedin.com/in/fernando-nicolas-carrillo-lopez/)
+- :briefcase: LinkedIn: [Fernando Nicolás Carrillo López](https://www.linkedin.com/in/fernando-nicolas-carrillo-lopez/)
 - :bird: Twitter: [@pandasoncode](https://twitter.com/pandasoncode)
 - :email: Correo: [pandasoncode@gmail.com](mailto:pandasoncode@gmail.com)
 
-¡Innovemos, colaboremos y construyamos el futuro juntos! :rocket:
+¡Construyamos soluciones eficientes y escalables juntos! :rocket:
