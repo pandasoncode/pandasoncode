@@ -22,7 +22,6 @@ Si te interesa colaborar en proyectos o discutir nuevas oportunidades relacionad
 Estoy siempre abierto a conectar con profesionales afines y discutir soluciones tecnológicas. Puedes contactarme a través de los siguientes canales:
 
 - :briefcase: LinkedIn: [Fernando Nicolás Carrillo López](https://www.linkedin.com/in/fernando-nicolas-carrillo-lopez/)
-- :bird: Twitter: [@pandasoncode](https://twitter.com/pandasoncode)
 - :email: Correo: [pandasoncode@gmail.com](mailto:pandasoncode@gmail.com)
 
 ¡Construyamos soluciones eficientes y escalables juntos! :rocket:
